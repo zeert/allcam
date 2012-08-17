@@ -1,0 +1,103 @@
+body {  background-color: #d6d6d6; }
+
+a:link {color: #d6d6d6; text-decoration: none}
+a:visited {color: #d6d6d6; text-decoration: none}
+a:hover {color: #d6d6d6; text-decoration: none}
+a:active {color: #d6d6d6; text-decoration: none}
+
+.fondo-body {
+	margin-top: 50px;
+	margin-bottom: 0px;
+	width: 800px;
+	height: auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/* OBJETOS
+------------------------------------------------ */
+.tit-izq {
+	margin-left:0px;
+	width: 285px;
+}
+
+/* TEXTOS
+------------------------------------------------ */
+.txt-menulat {
+	font-family: arial;
+	font-size: 12px;
+	color: #909090;
+}
+.txt-empresa {
+	font-family: arial;
+	text-align: left;
+	font-size: 12px;
+	color: #909090;
+}
+.txt-clientes {
+	font-family: arial;
+	text-align: left;
+	font-size: 12px;
+	color: #909090;
+	text-align:center;
+}
+.txt-empresa-lite {
+	font-family: arial;
+	text-align: left;
+	font-size: 10px;
+	color: #6a6a6a;
+}
+.txt-pie {
+	font-family: arial;
+	text-align:center;
+	font-size: 11px;
+	color: #A7A7A7;
+}
+	
+/* FONDOS
+------------------------------------------------ */
+.fondo-menulat {
+	background-image:  url(imghtml/fondos/menulat196.gif);
+	width: 192px;
+	height: auto;
+}
+.fondo-medio {
+	background-image:  url(imghtml/fondos/medio.gif);
+	width: 16px;
+	height: auto;
+}
+.fondo-menulattabla {
+	width: 174px;
+	height: 100%;
+	margin-left: 18px;
+}
+.fondo-contenido {
+	background-image:  url(imghtml/fondos/contenido.gif);
+	width: 608px;
+	height: auto;
+}
+
+/* ESTRUCTURA
+------------------------------------------------ */
+.contenido {
+	margin-top: 0px;
+	margin-right: 18px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 590px;
+	text-align: center;
+}
+.contenido-empresa {
+	margin-top: 0px;
+	margin-right: 2px;
+	margin-bottom: 0px;
+	width: 580px;
+	text-align: center;
+}
+.contenido-amarillo {
+	margin-top: 0px;
+	margin-right: 2px;
+	margin-bottom: 0px;
+	width: 591px;
+	text-align: center;
+}
